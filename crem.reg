@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallBlocklist]
+"1"="*"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallAllowlist]
+"1"="cjpalhdlnbpafiamejdnhcphjbkeiagm"
+"2"="mokknliiomknodkdmpcellamkopbdmao"
+"3"="omghfjlpggmjjaagoclmmobgdodcjboh"
+"4"="mbniclmhobmnbdlbpiphghaielnnpgdp"
+"5"="ghbmnnjooekpmoecnnnilnnbdlolhkhi"
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist]
+"1"="cjpalhdlnbpafiamejdnhcphjbkeiagm"
+"2"="mokknliiomknodkdmpcellamkopbdmao"
+"3"="omghfjlpggmjjaagoclmmobgdodcjboh"
+"4"="mbniclmhobmnbdlbpiphghaielnnpgdp"
+"5"="ghbmnnjooekpmoecnnnilnnbdlolhkhi"
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Google\Chrome]
+"BlockExternalExtensions"=dword:00000001
